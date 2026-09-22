@@ -1,0 +1,1563 @@
+[
+  {
+    "editorial": null,
+    "_id": "6a9721d06bdb47266fd06158",
+    "title": "Two Sum Phase 2 Test",
+    "slug": "two-sum-phase-2-test",
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "constraints": [
+      "2 <= nums.length <= 10^4",
+      "-10^9 <= nums[i] <= 10^9"
+    ],
+    "examples": [
+      {
+        "input": "[2,7,11,15]\n9",
+        "output": "[0,1]",
+        "explanation": "Because nums[0] + nums[1] == 9, we return [0, 1]."
+      }
+    ],
+    "testCases": [
+      {
+        "input": "[3,2,4]\n6",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]\n6",
+        "expectedOutput": "[0,1]",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 256,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "createdAt": "2026-09-01T19:04:48.991Z",
+    "updatedAt": "2026-09-01T19:04:48.991Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9725a894943dfaca4c40e1",
+    "title": "Two Sum Phase 2 Test",
+    "slug": "two-sum-phase-2-test-1",
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "constraints": [
+      "2 <= nums.length <= 10^4",
+      "-10^9 <= nums[i] <= 10^9"
+    ],
+    "examples": [
+      {
+        "input": "[2,7,11,15]\n9",
+        "output": "[0,1]",
+        "explanation": "Because nums[0] + nums[1] == 9, we return [0, 1]."
+      }
+    ],
+    "testCases": [
+      {
+        "input": "[3,2,4]\n6",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]\n6",
+        "expectedOutput": "[0,1]",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 256,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "createdAt": "2026-09-01T19:21:12.554Z",
+    "updatedAt": "2026-09-01T19:21:12.554Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e2f5e2cb7e03c978b298",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T08:48:53.256Z",
+    "updatedAt": "2026-09-02T08:48:53.256Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e376cb6a0bffd9314d93",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-1",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T08:51:02.208Z",
+    "updatedAt": "2026-09-02T08:51:02.208Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e3b3cb6a0bffd9314d9f",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-2",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T08:52:03.513Z",
+    "updatedAt": "2026-09-02T08:52:03.513Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e3decb6a0bffd9314dab",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-3",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T08:52:46.250Z",
+    "updatedAt": "2026-09-02T08:52:46.250Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e8e8053e68a9b23b627c",
+    "title": "Assignment Test Problem",
+    "slug": "assignment-test-problem",
+    "description": "Testing the assignment flow",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T09:14:16.381Z",
+    "updatedAt": "2026-09-02T09:14:16.381Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97e988053e68a9b23b6282",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-4",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T09:16:56.832Z",
+    "updatedAt": "2026-09-02T09:16:56.832Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a97eaf6053e68a9b23b6291",
+    "title": "Phase 5 Test Problem 26214",
+    "slug": "phase-5-test-problem-26214",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T09:23:02.818Z",
+    "updatedAt": "2026-09-02T09:23:02.818Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9871e1a0e2585e60c38218",
+    "title": "Phase 8 Test Problem 32118",
+    "slug": "phase-8-test-problem-32118",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T18:58:41.864Z",
+    "updatedAt": "2026-09-02T18:58:41.864Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9871efa0e2585e60c3821d",
+    "title": "Phase 5 Test Problem 62165",
+    "slug": "phase-5-test-problem-62165",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T18:58:55.809Z",
+    "updatedAt": "2026-09-02T18:58:55.809Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a98723ca0e2585e60c38225",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-5",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:00:12.336Z",
+    "updatedAt": "2026-09-02T19:00:12.336Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a987325a0e2585e60c3822f",
+    "title": "Phase 5 Test Problem 7675",
+    "slug": "phase-5-test-problem-7675",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]\\n6",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]\\n6",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:04:05.556Z",
+    "updatedAt": "2026-09-02T19:04:05.556Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a987341a0e2585e60c38231",
+    "title": "Phase 5 Test Problem 792",
+    "slug": "phase-5-test-problem-792",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]\\n6",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]\\n6",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:04:33.549Z",
+    "updatedAt": "2026-09-02T19:04:33.549Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a98736fa0e2585e60c38233",
+    "title": "Phase 5 Test Problem 72109",
+    "slug": "phase-5-test-problem-72109",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:05:19.201Z",
+    "updatedAt": "2026-09-02T19:05:19.201Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9873a0a0e2585e60c38238",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-6",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:06:08.451Z",
+    "updatedAt": "2026-09-02T19:06:08.451Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9873d8a0e2585e60c38245",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-7",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:07:04.941Z",
+    "updatedAt": "2026-09-02T19:07:04.941Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9873fba0e2585e60c38251",
+    "title": "Phase 8 Test Problem 44266",
+    "slug": "phase-8-test-problem-44266",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T19:07:39.913Z",
+    "updatedAt": "2026-09-02T19:07:39.913Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a988614a0e2585e60c3825c",
+    "title": "Phase 5 Test Problem 65182",
+    "slug": "phase-5-test-problem-65182",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T20:24:52.881Z",
+    "updatedAt": "2026-09-02T20:24:52.881Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a988829a0e2585e60c38267",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-8",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T20:33:45.152Z",
+    "updatedAt": "2026-09-02T20:33:45.152Z",
+    "__v": 0
+  },
+  {
+    "editorial": null,
+    "_id": "6a9889a1a0e2585e60c38270",
+    "title": "Phase 5 Test Problem 49404",
+    "slug": "phase-5-test-problem-49404",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T20:40:01.320Z",
+    "updatedAt": "2026-09-02T20:40:01.320Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9889afa0e2585e60c38278",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-9",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T20:40:15.337Z",
+    "updatedAt": "2026-09-04T19:02:36.250Z",
+    "__v": 0,
+    "editorial": {
+      "explanation": "Demo try",
+      "approach": "2 pointer",
+      "algorithm": "Bubble Sort",
+      "complexity": "O(logn)",
+      "codeExplanation": "demo"
+    }
+  },
+  {
+    "editorial": null,
+    "_id": "6a9889b6a0e2585e60c3827e",
+    "title": "Phase 8 Test Problem 13027",
+    "slug": "phase-8-test-problem-13027",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-02T20:40:22.474Z",
+    "updatedAt": "2026-09-02T20:40:22.474Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a996616fa3bf0b815876fec",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-03T12:20:38.132Z",
+    "updatedAt": "2026-09-03T12:20:38.383Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a99662d0ba6ee325004056c",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-1",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-03T12:21:01.536Z",
+    "updatedAt": "2026-09-03T12:21:01.771Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a996666fe861ae805956459",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-2",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-03T12:21:58.138Z",
+    "updatedAt": "2026-09-03T12:21:58.378Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b222c3d17c19130aaafdd",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-3",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T19:55:24.157Z",
+    "updatedAt": "2026-09-04T19:55:24.340Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b22663d17c19130aaafe5",
+    "title": "Phase 5 Test Problem 57043",
+    "slug": "phase-5-test-problem-57043",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T19:56:22.862Z",
+    "updatedAt": "2026-09-04T19:56:22.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b22e43d17c19130aaafed",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-10",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T19:58:28.957Z",
+    "updatedAt": "2026-09-04T19:58:28.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b22ee3d17c19130aaaff7",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-4",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T19:58:38.263Z",
+    "updatedAt": "2026-09-04T19:58:38.438Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b22f53d17c19130aab000",
+    "title": "Phase 8 Test Problem 20870",
+    "slug": "phase-8-test-problem-20870",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T19:58:45.913Z",
+    "updatedAt": "2026-09-04T19:58:45.913Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b24123d17c19130aab005",
+    "title": "Phase 5 Test Problem 60131",
+    "slug": "phase-5-test-problem-60131",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T20:03:30.947Z",
+    "updatedAt": "2026-09-04T20:03:30.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b2e40cc60043bdaa02e2c",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-5",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T20:46:56.457Z",
+    "updatedAt": "2026-09-04T20:46:56.691Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b2ebacc60043bdaa02e3e",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-6",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T20:48:58.225Z",
+    "updatedAt": "2026-09-04T20:48:58.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b3457903da8f334fe4c56",
+    "title": "Phase 5 Test Problem 64378",
+    "slug": "phase-5-test-problem-64378",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T21:12:55.471Z",
+    "updatedAt": "2026-09-04T21:12:55.471Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b3476903da8f334fe4c5a",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-11",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T21:13:26.237Z",
+    "updatedAt": "2026-09-04T21:13:26.237Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b3487903da8f334fe4c63",
+    "title": "Phase 8 Test Problem 27788",
+    "slug": "phase-8-test-problem-27788",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T21:13:43.613Z",
+    "updatedAt": "2026-09-04T21:13:43.613Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b3528903da8f334fe4c68",
+    "title": "Phase 5 Test Problem 18113",
+    "slug": "phase-5-test-problem-18113",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T21:16:24.951Z",
+    "updatedAt": "2026-09-04T21:16:24.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9b357e903da8f334fe4c6b",
+    "title": "Phase 5 Test Problem 54262",
+    "slug": "phase-5-test-problem-54262",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-04T21:17:50.796Z",
+    "updatedAt": "2026-09-04T21:17:50.796Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dc05d3a4dfffea3758deb",
+    "title": "Phase 5 Test Problem 24923",
+    "slug": "phase-5-test-problem-24923",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T19:34:53.697Z",
+    "updatedAt": "2026-09-06T19:34:53.697Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dc08d3a4dfffea3758df3",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-12",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T19:35:41.008Z",
+    "updatedAt": "2026-09-06T19:35:41.008Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dc09e3a4dfffea3758dfc",
+    "title": "Phase 8 Test Problem 52329",
+    "slug": "phase-8-test-problem-52329",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T19:35:58.025Z",
+    "updatedAt": "2026-09-06T19:35:58.025Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dc0a83a4dfffea3758e03",
+    "title": "Phase 9 Test Problem",
+    "slug": "phase-9-test-problem-7",
+    "description": "Test problem for P9",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1",
+        "expectedOutput": "1",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T19:36:08.075Z",
+    "updatedAt": "2026-09-06T19:36:08.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dca80f03734ce44e20b99",
+    "title": "Phase 5 Test Problem 76773",
+    "slug": "phase-5-test-problem-76773",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      },
+      {
+        "input": "[3,3]",
+        "expectedOutput": "[0,1]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T20:18:08.553Z",
+    "updatedAt": "2026-09-06T20:18:08.553Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dcac8f03734ce44e20ba1",
+    "title": "Phase 7 Test Problem",
+    "slug": "phase-7-test-problem-13",
+    "description": "Test problem",
+    "difficulty": "Easy",
+    "topics": [
+      "Arrays"
+    ],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "1\n",
+        "expectedOutput": "1\n",
+        "hidden": true
+      },
+      {
+        "input": "2\n",
+        "expectedOutput": "2\n",
+        "hidden": true
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T20:19:20.718Z",
+    "updatedAt": "2026-09-06T20:19:20.718Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9dcadaf03734ce44e20baa",
+    "title": "Phase 8 Test Problem 72079",
+    "slug": "phase-8-test-problem-72079",
+    "description": "Test problem",
+    "difficulty": "Medium",
+    "topics": [],
+    "constraints": [],
+    "testCases": [
+      {
+        "input": "[3,2,4]",
+        "expectedOutput": "[1,2]",
+        "hidden": false
+      }
+    ],
+    "timeLimit": 1000,
+    "memoryLimit": 128,
+    "supportedLanguages": [
+      "javascript",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "editorial": null,
+    "archived": false,
+    "examples": [],
+    "createdAt": "2026-09-06T20:19:38.386Z",
+    "updatedAt": "2026-09-06T20:19:38.386Z",
+    "__v": 0
+  }
+]

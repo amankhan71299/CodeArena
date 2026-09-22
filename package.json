@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "concurrently --kill-others -n \"BACKEND,WORKER,FRONTEND\" -c \"bgBlue.bold,bgYellow.bold,bgMagenta.bold\" \"npm --prefix backend run dev\" \"npm --prefix backend run dev:worker\" \"wait-on http-get://localhost:5000/health && npm --prefix frontend run dev\"",
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5",
+    "wait-on": "^9.1.0"
+  }
+}
